@@ -11,7 +11,7 @@ public class OutputInputArray {
         int [] arr = {5,8,7,9,-8,2,8,4,2,9};
         
         /*
-        System.out.println(arr[0]); // isko sort kerne ke leye loop lagayenge
+        System.out.println(arr[0]); // isko short kerne ke leye loop lagayenge
         System.out.println(arr[1]);
         System.out.println(arr[2]);
         System.out.println(arr[3]);
